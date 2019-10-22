@@ -1,0 +1,20 @@
+hey this is Bhanvi Menghani!
+and this is my first repo on git hub
+so, i am putting my favourite and ofcourse currently 
+popular code of a desktop help in pyhon using
+ a) speech recognition (speech 2 text) and,
+ b) pyttsx3 (text 2 speech) 
+
+The project is just a simpler version of voice assistants
+like contora (microsoft), siri (apple) and jarvis(iron man).
+
+requirments:
+1. micropone (i used external)
+2. headphone
+3. USB jack
+4. install all the libraries used
+
+some important advice:
+1. i used pycharm (an IDE) for various plugins required.
+2. both external or internal microphone can work
+3. patience is the key!!
